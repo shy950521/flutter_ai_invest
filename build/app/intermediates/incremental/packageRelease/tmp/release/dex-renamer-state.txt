@@ -1,0 +1,4 @@
+#Thu Jun 06 14:29:09 CDT 2019
+base.0=/home/haoyuan/AndroidStudioProjects/TheGorgeousLogin/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

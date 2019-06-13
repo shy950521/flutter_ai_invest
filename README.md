@@ -1,9 +1,5 @@
-<h1 align="center">The Gorgeous Login</h1>
-
-<h3 align="center">
-  A login page built with flutter inspired by a design found on Uplabs
-</h3>
-
-Uplabs design        |  Flutter rendering
-:-------------------------:|:-------------------------:
-![original-design](./github/template.jpg)  |   ![](./github/login.gif)
+<p>An APP to build portfolios</p>
+<p>The backend is https://github.com/shy950521/investsite</p>
+<p>The demo release contains a preview connected to a cloud server</p>
+<p>the login page comes from https://github.com/huextrat/TheGorgeousLogin</p>
+<p>some customized widgets are from https://github.com/javico2609/flutter-challenges</p>
